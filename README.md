@@ -104,6 +104,3 @@ pip install pandas numpy matplotlib seaborn beautifulsoup4 jupyter
 BTech Final Year Student  
 Interested in Python, web scraping, data analysis, and project deployment.
 
-## License
-
-This project can use an MIT License if you want to make it open source. Add a `LICENSE` file before publishing the repository.
